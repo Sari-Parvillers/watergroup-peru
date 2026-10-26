@@ -1,6 +1,7 @@
 geopandas
 ipykernel
 matplotlib
+openpyxl
 pandas
 seaborn
 spicy
